@@ -1,3 +1,9 @@
+React/Redux/Firebase/Node.js e-commerce application based on the tutorials in the 'Complete React Developer in 2020' course at Udemy.
+
+
+***********************************************
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
